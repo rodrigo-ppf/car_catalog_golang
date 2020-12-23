@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "brand": "Audi",
+  "model": "A1",
+  "year": 2021,
+  "fuel": "gasoline",
+  "price": 23500.99
+ },
+ {
+  "id": 2,
+  "brand": "Volkswagen",
+  "model": "Passat",
+  "year": 2009,
+  "fuel": "diesel",
+  "price": 12982
+ },
+ {
+  "id": 3,
+  "brand": "Skoda",
+  "model": "Fabia",
+  "year": 2017,
+  "fuel": "gasoline",
+  "price": 19000
+ },
+ {
+  "id": 4,
+  "brand": "Audi",
+  "model": "A7",
+  "year": 2019,
+  "fuel": "gasoline",
+  "price": 63238
+ },
+ {
+  "id": 5,
+  "brand": "Seat",
+  "model": "Leon",
+  "year": 2021,
+  "fuel": "diesel",
+  "price": 25300
+ },
+ {
+  "id": 6,
+  "brand": "Seat",
+  "model": "Ibiza",
+  "year": 2015,
+  "fuel": "gasoline",
+  "price": 13980
+ },
+ {
+  "id": 7,
+  "brand": "Audi",
+  "model": "A4",
+  "year": 2020,
+  "fuel": "diesel",
+  "price": 29842
+ }
+]
