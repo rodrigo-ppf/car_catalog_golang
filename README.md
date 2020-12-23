@@ -1,6 +1,6 @@
 # Car Catalog (golang bakend)
 
-Implementing a CRUD using Golang
+Implementing a WEBAPI CRUD using Golang
 
 # Getting Started
 
